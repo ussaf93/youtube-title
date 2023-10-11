@@ -1,0 +1,28 @@
+/* CSS styles to be added in your theme's CSS file */
+#youtube-title-generator {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+#input-text {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+    resize: vertical;
+}
+
+#generate-button {
+    display: block;
+    margin: 10px 0;
+    padding: 5px 10px;
+    background-color: #0073ff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#generated-title {
+    margin-top: 10px;
+    font-weight: bold;
+}
